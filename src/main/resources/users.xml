@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<users>
+    <user>
+        <user-login>ForHometaskTest3@gmail.com</user-login>
+        <user-password>12345aKids</user-password>
+    </user>
+    <user>
+        <user-login>ForHometaskTest2@gmail.com</user-login>
+        <user-password>12345aKids</user-password>
+    </user>
+    <user>
+        <user-login>ForHometaskTest1@gmail.com</user-login>
+        <user-password>12345aKids</user-password>
+    </user>
+    <user>
+        <user-login>ForHometaskTest4@gmail.com</user-login>
+        <user-password>12345aKids</user-password>
+    </user>
+    <user>
+        <user-login>kidsautomation02@gmail.com</user-login>
+        <user-password>12345aKids</user-password>
+    </user>
+</users>
